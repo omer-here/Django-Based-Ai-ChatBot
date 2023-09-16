@@ -1,16 +1,16 @@
-## Django-Based-Ai-ChatBot
+# Django-Based-Ai-ChatBot
 
 Famous ChatGPT Like Chatbot of your own based on powerful framework i.e Django. 
 
-### Installation
+## Installation
 
 You can clone the project from the above. 
 
-### Usage
+## Usage
 
 Instructions on how to use your project. Be as specific as possible and provide examples.
 
-### Features
+## Features
 
 * `Train`: You can train as you like.
 * `Personal`: Limit to youselve.
@@ -25,6 +25,6 @@ The system requires the following:
 * IDE.
 * Open AI API Key.
 
-### Contact
+## Contact
 
-*Github: omer-here
+* Github: omer-here
